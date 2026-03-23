@@ -1,0 +1,6 @@
+.DS_Store
+app.log
+.vscode/        
+node_modules/   
+build/          
+dist/           

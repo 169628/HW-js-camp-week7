@@ -4,7 +4,7 @@
 // ========================================
 
 // 載入環境變數與套件
-require('dotenv').config({ path: '../../.env' });
+require('dotenv').config({ path: '.env' });
 const dayjs = require('dayjs');
 const axios = require('axios');
 
